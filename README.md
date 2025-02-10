@@ -29,7 +29,7 @@ The **Full Online Clinic Management System** is a web-based application built us
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/your-repo/clinic-management-system.git
-   cd clinic-management-system
+   cd HospitalMS
    ```
 2. **Configure Database**
    - Update `appsettings.json` with your SQL Server connection string.
